@@ -3,7 +3,6 @@
 
  ## 💫 About Me:
 - 👋 Hi, I’m @nadhiiff<br>- 📚 I'm currently learning Computer Science in Hasanuddin University, Indonesia<br>- 🌱 I’m currently learning in JavaScript and php<br>- 👀 I’m interested in Cybersecurity and Software Engineering<br>- 📫 How to reach me nadhifayatilla313@gmail.com<br>- 😄 Pronouns: he/him<br>
-<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nadhif0649_55396) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61554905876492) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nadhiftmma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadhiftamma-ayatilla-a-p-47158834b/) 
